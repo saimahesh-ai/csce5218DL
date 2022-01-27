@@ -1,1 +1,1 @@
-# csce5222feature_engg. this will have my assignments related to feature engineering
+# csce5218DL. this will have my assignments related to deep learning
